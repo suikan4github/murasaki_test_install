@@ -14,9 +14,9 @@ Following is the list of the Target
 
 | Project         | CORE      | Board         |
 |-----------------|-----------|-----------------|
-| nucleo-f091-64  | CORTEX-M4 | [NUCLEO-F091RC](https://www.st.com/en/evaluation-tools/nucleo-f091rc.html) |
+| nucleo-f091-64  | CORTEX-M0 | [NUCLEO-F091RC](https://www.st.com/en/evaluation-tools/nucleo-f091rc.html) |
 | nucleo-f446-64  | CORTEX-M4 | [NUCLEO-F446RE](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f446re.html) |
-| nucleo-l152-64  | CORTEX-M4 | [NUCLEO-L152RE](https://www.st.com/ja/evaluation-tools/nucleo-l152re.html) |
+| nucleo-l152-64  | CORTEX-M3 | [NUCLEO-L152RE](https://www.st.com/ja/evaluation-tools/nucleo-l152re.html) |
 | nucleo-l412-64  | CORTEX-M4 | [NUCLEO-L412RB-P](https://www.st.com/ja/evaluation-tools/nucleo-l152re.html) |
 | nucleo-f722-144 | CORTEX-M7 | [NUCLEO-F722ZE](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f722ze.html) |
 | nucleo-f746-144 | CORTEX-M7 | [NUCLEO-F746ZG](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f746zg.html) |
