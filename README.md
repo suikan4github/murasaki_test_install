@@ -51,6 +51,8 @@ To correct this problem, fix followings :
 - Fix the declaration of the hart3 to huart2 in Src/murasaki_platform.cpp
 - Fix the creation of the debug UART referring huart3 to huaret2 in Src/murasaki_platform.cpp
 
+To find out above things, simply search for them inside Src/murasaki_platform.cpp.
+
 # Environment
 These projects are tested with environment below
  - [Ubuntu](https://ubuntu.com/) 16.04 LTS
