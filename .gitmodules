@@ -1,39 +1,39 @@
 [submodule "nucleo-f722-144/murasaki"]
 	path = nucleo-f722-144/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-f746-144/murasaki"]
 	path = nucleo-f746-144/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-h743-144/murasaki"]
 	path = nucleo-h743-144/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-f446-64/murasaki"]
 	path = nucleo-f446-64/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-f091-64/murasaki"]
 	path = nucleo-f091-64/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-l152-64/murasaki"]
 	path = nucleo-l152-64/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-l412-64/murasaki"]
 	path = nucleo-l412-64/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-g431-64/murasaki"]
 	path = nucleo-g431-64/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-g431-64-adv/murasaki"]
 	path = nucleo-g431-64-adv/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-g070-64/murasaki"]
 	path = nucleo-g070-64/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-g070-64-adv/murasaki"]
 	path = nucleo-g070-64-adv/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-f091-64-adv/murasaki"]
 	path = nucleo-f091-64-adv/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
 [submodule "nucleo-f722-144-adv/murasaki"]
 	path = nucleo-f722-144-adv/murasaki
-	url = git@github.com:suikan4github/murasaki.git
+	url = https://github.com/suikan4github/murasaki.git
